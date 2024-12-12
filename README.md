@@ -1,1 +1,1 @@
-apache server configuration with Jenkins on AWS
+Apache Server configuration with Jenkins on AWS
