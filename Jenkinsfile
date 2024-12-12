@@ -16,7 +16,7 @@ pipeline {
                     sshPublisher(
                         publishers: [
                             sshPublisherDesc(
-                                configName: 'ApacheServer',
+                                configName: 'apache_server',
                                 transfers: [
                                     sshTransfer(
                                         sourceFiles: '**/*.html, **/*.css, **/images/**/*',
